@@ -1,7 +1,8 @@
 # PeakGameCoopMod
 🧗‍♂️ Comprehensive cheat mod for PEAK climbing game - infinite stamina, player ESP, teleportation, auto-revive &amp; more. MelonLoader-based with full multiplayer support.
 # PeakGameCoopMod
-<img width="587" height="335" alt="Screenshot 2025-07-10 165822" src="https://github.com/user-attachments/assets/521aac09-5bbc-441a-b36d-56de7e4597fd" />
+<img width="882" height="421" alt="Screenshot 2025-07-10 170028" src="https://github.com/user-attachments/assets/c415d061-3779-48ed-8a55-db5a3869892f" />
+
 
 A comprehensive cheat mod for the PEAK climbing game that provides various gameplay enhancements and utilities for multiplayer sessions.
 
